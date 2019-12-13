@@ -14,6 +14,7 @@ The application is a Bootstrap template that implemets few front-end and back-en
 * **news_tts**: Methods to interact with a Text-To-Speech service. This can be easily reconfigured to use the services offered by the common Cloud providers.
 
 .. image:: static/img/audionews-screenshot.png
+   :align: center
 
 Requirements
 =============
