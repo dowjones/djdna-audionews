@@ -68,7 +68,7 @@ function updateAllNewsSections() {
 
 function playAudioReader() {
   var $content = $('.audio-reader');
-  audioArticleApiUrl = HostUrl + "/api/article/" + articleContent['id'] + "/_audiofilename";
+  audioArticleApiUrl = HostUrl + "/api/article/" + articleContent['an'] + "/_audiofilename";
   $.ajax({
     type: "GET",
     url: audioArticleApiUrl,
