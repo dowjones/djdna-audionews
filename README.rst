@@ -15,6 +15,7 @@ The application is a Bootstrap template that implemets few front-end and back-en
 
 .. image:: static/img/audionews-screenshot.png
    :align: center
+   :scale: 50 %
 
 Requirements
 =============
